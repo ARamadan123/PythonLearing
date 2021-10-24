@@ -1,0 +1,15 @@
+Name: Abdelrahman
+Age: 18
+******************
+Name: Omar
+Age: 23
+******************
+Name: Emile
+Age: 22
+******************
+Name: Nicholas
+Age: 27
+******************
+Name: Thomas
+Age: 28
+******************
